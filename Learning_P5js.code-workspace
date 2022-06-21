@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Learning_P5js",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Learning_P5js"
+	}
+}
